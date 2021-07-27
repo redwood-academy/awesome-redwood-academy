@@ -7,6 +7,14 @@
 <img src="https://redwoodedu.github.io/assets/qr_wechat_public_account.jpg" align="right" width="150" height="150"/>
 请扫描右侧二维码
 
+## 官方网站
+- [hongshanxueshe.org](https://hongshanxueshe.org)
+
 ## 讲座视频
 - [Bilibili](https://space.bilibili.com/235756546)
-- [Youtube](https://www.youtube.com/channel/UCMmbp2q018OoDXRWZNvTxtQ)
+- [Youtube](https://www.youtube.com/c/红杉学社)
+
+## 官方账号
+- [微博](https://weibo.com/u/7514671133)
+- [领英](https://www.linkedin.com/company/%E7%BA%A2%E6%9D%89%E5%AD%A6%E7%A4%BE-redwood-academy)
+- [知乎](https://www.zhihu.com/org/hong-shan-xue-she)
